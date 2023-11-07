@@ -1,1 +1,2 @@
 # 10MW_Solar_Power_Plant_Performance_Analysis
+![10MW_Solar_Plant_Performance_Analysis](https://github.com/akashkokne0214/10MW_Solar_Power_Plant_Performance_Analysis/assets/122113458/9fc149ea-6777-4f0e-9176-8089cb1289ea)
